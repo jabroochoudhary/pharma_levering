@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "570823330302",
+    "project_id": "e-medicine-shop",
+    "storage_bucket": "e-medicine-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570823330302:android:5e2f31f4634aba7bad58af",
+        "android_client_info": {
+          "package_name": "com.example.e_medicine_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570823330302-0pujqaevng4gocoqb9a7t43cj3cj2tur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_medicine_shop",
+            "certificate_hash": "799588ce0169c21d194dfd86501b3767e2894778"
+          }
+        },
+        {
+          "client_id": "570823330302-rg201bvsh7hvo4v9ethnp19n39amkofg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPz_dBMGoGTUFTBNntH7YavZbgYk66jls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570823330302-rg201bvsh7hvo4v9ethnp19n39amkofg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
